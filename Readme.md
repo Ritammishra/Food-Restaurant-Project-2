@@ -10,8 +10,8 @@
 ***
 ## What I learn from this project
 - How to add background image.
-- How to position amy element.
-- Hod to adjust padding.
+- How to position any element.
+- How to adjust padding.
 - How add linear gradient.
 - How make a Button
 <hr>
