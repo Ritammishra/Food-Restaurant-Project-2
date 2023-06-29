@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/Second-css-green)
 ***
 ![image](./Thumbnail.png)
-(Live Preview)(https://food-restaurant-project-2.netlify.app/)
+[Live Preview](https://food-restaurant-project-2.netlify.app/)
 ***
 ## What I learn from this project
 - How to add background image.
@@ -18,4 +18,4 @@
 <hr>
 
 ## Time to Complete
-- It's takes near about 3 Hrs.
+- It's taken near about 3 Hrs.
