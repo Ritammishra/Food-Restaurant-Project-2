@@ -1,27 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Great+Vibes&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body{
-    background-image: linear-gradient(90deg, #1f3079c7, #1b2864cc), url(assets/background.png);
+    background-image: linear-gradient(90deg, #1f3079c7, #172049cc), url(assets/background.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
-/* Navigation bar */
+
 .container {
-    padding: 30px 40px;
+   /* padding: 30px 40px; */
    width: 100%;
    height: 100vh;
 }
 
+/* Navigation bar */
+
 .container .navbar{
     display: flex;
     justify-content: space-between;
+    margin-top: 30px;
 }
 .navbar div img{
     width: 90px;
-    height: 35px;
+    height: 32px;
+    margin-left: 16px;
 }
 .container .navbar div ul{
     display: flex;
@@ -38,15 +43,20 @@ body{
     color: #fff;
     border: 1px solid #FF505F;
     font-family: 'Red Rose', sans-serif;
+    margin-right: 60px;
 }
 
 /* Hero Section */
+
 .hero h1{
-    font-family: 'Dela Gothic One', cursive;
-    font-size: 75px;
+    font-family: 'Dela';
+    font-weight: 800;
+    font-size: 7rem;
     text-align: center;
     text-decoration: none;
     color: #FFC233;
+    line-height: 6.8rem;
+    margin-top: 5rem;
 }
 .hero button{
     position: relative;
@@ -67,5 +77,5 @@ body{
     height: 120px;
     position: relative;
     left: 85%;
-    top: 50px;
+    top: 10px;
 }
