@@ -7,14 +7,15 @@
 ![image](https://img.shields.io/badge/Second-css-green)
 ***
 ![image](./Thumbnail.png)
+[Live Preview](https://food-restaurant-project-2.netlify.app/)
 ***
 ## What I learn from this project
 - How to add background image.
-- How to position amy element.
-- Hod to adjust padding.
+- How to position any element.
+- How to adjust padding.
 - How add linear gradient.
 - How make a Button
 <hr>
 
 ## Time to Complete
-- It's takes near about 3 Hrs.
+- It's taken near about 3 Hrs.
